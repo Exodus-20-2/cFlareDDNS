@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c1e289bd-1d17-4094-968c-df1a7dc21afb": {
+      "ProjectGuid": "c1e289bd-1d17-4094-968c-df1a7dc21afb",
+      "DisplayName": "cFlareDDNS",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

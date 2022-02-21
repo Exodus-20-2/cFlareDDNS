@@ -1,0 +1,17 @@
+C:\Users\Exodus\Documents\GitHub\cFlareDDNS\cFlareDDNS\cFlareDDNS\obj\Debug\net6.0\cFlareDDNS.csproj.AssemblyReference.cache
+C:\Users\Exodus\Documents\GitHub\cFlareDDNS\cFlareDDNS\cFlareDDNS\obj\Debug\net6.0\cFlareDDNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Exodus\Documents\GitHub\cFlareDDNS\cFlareDDNS\cFlareDDNS\obj\Debug\net6.0\cFlareDDNS.AssemblyInfoInputs.cache
+C:\Users\Exodus\Documents\GitHub\cFlareDDNS\cFlareDDNS\cFlareDDNS\obj\Debug\net6.0\cFlareDDNS.AssemblyInfo.cs
+C:\Users\Exodus\Documents\GitHub\cFlareDDNS\cFlareDDNS\cFlareDDNS\obj\Debug\net6.0\cFlareDDNS.csproj.CoreCompileInputs.cache
+C:\Users\Exodus\Documents\GitHub\cFlareDDNS\cFlareDDNS\cFlareDDNS\bin\Debug\net6.0\cFlareDDNS.exe
+C:\Users\Exodus\Documents\GitHub\cFlareDDNS\cFlareDDNS\cFlareDDNS\bin\Debug\net6.0\cFlareDDNS.deps.json
+C:\Users\Exodus\Documents\GitHub\cFlareDDNS\cFlareDDNS\cFlareDDNS\bin\Debug\net6.0\cFlareDDNS.runtimeconfig.json
+C:\Users\Exodus\Documents\GitHub\cFlareDDNS\cFlareDDNS\cFlareDDNS\bin\Debug\net6.0\cFlareDDNS.dll
+C:\Users\Exodus\Documents\GitHub\cFlareDDNS\cFlareDDNS\cFlareDDNS\bin\Debug\net6.0\ref\cFlareDDNS.dll
+C:\Users\Exodus\Documents\GitHub\cFlareDDNS\cFlareDDNS\cFlareDDNS\bin\Debug\net6.0\cFlareDDNS.pdb
+C:\Users\Exodus\Documents\GitHub\cFlareDDNS\cFlareDDNS\cFlareDDNS\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Exodus\Documents\GitHub\cFlareDDNS\cFlareDDNS\cFlareDDNS\obj\Debug\net6.0\cFlareDDNS.csproj.CopyComplete
+C:\Users\Exodus\Documents\GitHub\cFlareDDNS\cFlareDDNS\cFlareDDNS\obj\Debug\net6.0\cFlareDDNS.dll
+C:\Users\Exodus\Documents\GitHub\cFlareDDNS\cFlareDDNS\cFlareDDNS\obj\Debug\net6.0\ref\cFlareDDNS.dll
+C:\Users\Exodus\Documents\GitHub\cFlareDDNS\cFlareDDNS\cFlareDDNS\obj\Debug\net6.0\cFlareDDNS.pdb
+C:\Users\Exodus\Documents\GitHub\cFlareDDNS\cFlareDDNS\cFlareDDNS\obj\Debug\net6.0\cFlareDDNS.genruntimeconfig.cache
